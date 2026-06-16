@@ -8,12 +8,12 @@
   <link rel="stylesheet" href="landing.css">
 
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VT3K2159XQ"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-G39DRE1X2F"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-VT3K2159XQ');
+    gtag('config', 'G-G39DRE1X2F');
     gtag('config', 'AW-18133963978');
   </script>
 
